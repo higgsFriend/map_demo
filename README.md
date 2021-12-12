@@ -1,2 +1,2 @@
 # map_demo
-Demo of updating a map
+A demonstration of a map that could update in real-time.
